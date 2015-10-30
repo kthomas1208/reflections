@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates a .git folder. This is what keeps track of all our commits. It IS the repository. I think.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is where the files you work on save their state before you commit to the repository. While you're in your IDE and you press "save" the staging area is where it will be held before committing. (They need to be added though).
