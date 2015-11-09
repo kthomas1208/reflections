@@ -15,3 +15,6 @@ Git uses a tree like structure with branches coming off the trunk, so it's easie
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It combines all the code changes made between the two branches. In the diagram, they're combined into one node because it is a combination of both of the branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro: auto merging makes things simpler because you don't have to think about the merges everytime. Con: But it loses to manual merges when there are conflicting code changes in the same area of code.
