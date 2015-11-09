@@ -3,3 +3,12 @@ It creates a .git folder. This is what keeps track of all our commits. It IS the
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is where the files you work on save their state before you commit to the repository. While you're in your IDE and you press "save" the staging area is where it will be held before committing. (They need to be added though).
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can use git status to see what is to be committed. Instead of committing everything, you can choose what specifically you want to commit. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If I'm experimenting with a new feature or trying an alternate implementation, it would be helpful to have a safe space to try these changes without breaking the main code.
+
+How do the diagrams help you visualize the branch structure?
+Git uses a tree like structure with branches coming off the trunk, so it's easier to understand where all the commits are in relation to each other.
