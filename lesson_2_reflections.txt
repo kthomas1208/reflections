@@ -12,3 +12,6 @@ If I'm experimenting with a new feature or trying an alternate implementation, i
 
 How do the diagrams help you visualize the branch structure?
 Git uses a tree like structure with branches coming off the trunk, so it's easier to understand where all the commits are in relation to each other.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It combines all the code changes made between the two branches. In the diagram, they're combined into one node because it is a combination of both of the branches.
