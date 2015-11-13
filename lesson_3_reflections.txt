@@ -3,3 +3,6 @@ When I want to collaborate on a project with a team or share my creations with t
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 There might be changes that you don't want to use or there might be a buggy commit sitting on the remote.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+You use a fork on GitHub as an easy way to copy another project so you can make your own changes. You use clone to copy the contents of a repository onto another drive (usually from a remote to a local directory). You use a branch if you want to split from the main code to try something experimental without breaking the project.
