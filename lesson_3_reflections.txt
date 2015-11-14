@@ -9,3 +9,6 @@ You use a fork on GitHub as an easy way to copy another project so you can make 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So you can tell if you're out of date.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+SVN! Or just emailing files or something really annoying. It would be easier to not learn all the complicated merge/branch commands. But harder to actually have version control
