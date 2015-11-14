@@ -12,3 +12,6 @@ So you can tell if you're out of date.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 SVN! Or just emailing files or something really annoying. It would be easier to not learn all the complicated merge/branch commands. But harder to actually have version control
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to experiment with a change. With a separate branch, you can make as many changes you want to without affecting master. But it's kinda complicated dealing with all the merging. Staying in master helps you keep updating your main branch and it's easy to just commit -> push then pull into your master. 
